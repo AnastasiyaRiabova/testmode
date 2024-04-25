@@ -1,4 +1,4 @@
-package ru.netology;
+package ru.netology.testmode.test;
 import com.codeborne.selenide.Selenide;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
